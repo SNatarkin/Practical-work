@@ -1,6 +1,3 @@
-# Practical-work
-
-Song about  Windows
 
 # Практическая работа
 ## Цель работы:
